@@ -1,0 +1,24 @@
+/* de 0px en adelante */
+.dropdown{
+}
+#menu-desplegable{
+    position: relative !important;
+  }
+
+@media (min-width: 576px){
+}
+
+@media (min-width: 768px){
+}
+
+@media (min-width: 992px){
+    #menu-desplegable{
+        position: absolute !important;
+      }
+}
+
+@media (min-width: 1200px){
+}
+
+@media (min-width: 1400px){
+}

@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tareas Pendiente
 
-## Getting Started
+- Agregar objetivo en portada Home
+- Agregar "mensaje de "unete a nosotros ... te esperamos ..." Antes de footer en Home
+- agregar linea super fina de subrayado a los enlaces del NavBar
+- Hero Image para "terapias" pero con recuadros informativos en color blanco con transparencia
+-
 
-First, run the development server:
+TEXTO PARA TERAPIAS:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Proceso Terapéutico:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Evaluación Inicial
+Comenzamos con una evaluación integral que incluye la interacción inicial entre el individuo y el caballo, así como una exploración de las preocupaciones emocionales y mentales.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Selección de Flores de Bach
+Utilizando las señales emocionales de los caballos, seleccionamos las flores de Bach que mejor se alinean con las necesidades emocionales del individuo.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Sesiones de Equinoterapia y Terapia Floral
+Las sesiones integradas implican la interacción con los caballos y la administración de las esencias florales. Este proceso busca desbloquear emociones, promover la autorreflexión y facilitar la transformación positiva.
 
-## Learn More
+Beneficios Esperados:
 
-To learn more about Next.js, take a look at the following resources:
+Desarrollo de la Conciencia Emocional
+Mejora la capacidad de reconocer y comprender las propias emociones.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Equilibrio Emocional
+Facilita el equilibrio emocional a través de la armonización de patrones emocionales.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Fortalecimiento de la Resiliencia
+La combinación de la interacción con caballos y las esencias florales contribuye al fortalecimiento de la resiliencia emocional y mental. Los caballos, como animales que viven en el presente y responden instintivamente a las emociones humanas, brindan oportunidades para aprender a afrontar desafíos de manera eficaz. La terapia floral de Bach complementa este proceso al proporcionar apoyo emocional y ayudar a superar bloqueos mentales, fortaleciendo así la capacidad de enfrentar situaciones difíciles con mayor resiliencia.
 
-## Deploy on Vercel
+Mejora de las Relaciones Personales
+A medida que los participantes exploran sus propias emociones y mejoran su equilibrio emocional, también pueden experimentar mejoras en sus relaciones personales. La equinoterapia fomenta habilidades de comunicación no verbal, empatía y conexión interpersonal. Las esencias florales, al abordar patrones emocionales que pueden afectar las relaciones, contribuyen a un entorno emocional más saludable, promoviendo relaciones más positivas y enriquecedoras.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+//// OTRA INFO
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Desde Caballos y Flores trabajamos las Terapias Florales junto con las Terapias Asistidas con Caballos, la combinación de Caballos y Flores es maravillosa para Sanar el Alma, en lo mas profundo del ser! Y al igual que los caballos las flores nos acompañan en la evolución de nuestros procesos espirituales! Justamente porque tanto los caballos como las flores vienen evolucionando desde hace miles de años y acompañando al ser humano en su proceso de una mejor calidad de vida!
+Si queres saber más escribimos al https://wa.me/+5493548505540 Capilla del Monte

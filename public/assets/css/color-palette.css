@@ -1,0 +1,24 @@
+:root {
+    --color-verde-oscuro: #12372A;
+    --color-verde-medio: #436850 ;
+    --color-verde-claro: #ADBC9F;
+    --color-verde-claro-50: #ADBC9F88;
+    --color-verde-claro-75: #ADBC9F44;
+    --color-amarillo: #FBFADA;
+    --color-amarillo-hover: #cbb269;
+    --color-amarillo-25: #FBFADABB;
+    --color-amarillo-50: #FBFADA88;
+} 
+
+/*Bootstrap Pallet*/
+:root{
+    /*Font Famyli*/
+    --bs-body-font-family: ;
+
+    /*Colors*/
+    --bs-body-color: ;
+    --bs-body-bg: ;
+    --bs-heading-color: ;/*h1 ... h6*/
+    --bs-highlight-color: ; /*mark .mark*/
+
+}

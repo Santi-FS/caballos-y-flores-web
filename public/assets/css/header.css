@@ -1,0 +1,100 @@
+header {
+  width: 100vw !important;
+}
+.display-none {
+  display: none;
+}
+.bg-image {
+  height: 100vh !important;
+}
+h1 {
+  font-family: Open-Sans-light, "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif !important;
+}
+h4 {
+  font-family: Open-Sans-light, "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif !important;
+}
+.parrafo-header {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.w-40 {
+  width: 40%;
+}
+.navbar {
+  background-color: var(--color-verde-oscuro);
+}
+.mask-custom {
+  backdrop-filter: blur(3px) !important;
+  background-color: rgba(32, 51, 27, 0.6) !important;
+}
+.logo > a > img {
+  max-height: 50px;
+  transition: transform 0.4s ease-out;
+}
+.logo > a > img:hover {
+  transform: scale(1.1) !important;
+}
+
+.enlaces {
+  font-size: 1.2rem !important;
+  font-family: Open-Sans-medium, "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif !important;
+  color: white !important;
+  transition: color 0.3s ease-out;
+}
+
+.enlaces:hover {
+  color: var(--color-amarillo-hover) !important;
+}
+
+.enlace-activo {
+  color: var(--color-amarillo-hover) !important;
+}
+
+.dropdown-menu {
+  backdrop-filter: blur(3px) !important;
+  background-color: rgba(32, 51, 27, 0.6) !important;
+}
+.dropdown-item:hover {
+  background-color: rgba(32, 51, 27, 0.6) !important;
+}
+.btn.btn-outline-light {
+  transition: color 0.3s ease !important;
+}
+.btn.btn-outline-light:hover {
+  border-color: var(--color-amarillo) !important;
+}
+
+.hero-text {
+  font-family: Open-Sans-medium, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+/*iCONOS REDES*/
+.fa-brands {
+  color: white !important;
+  transform: translateY(0);
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.fa-brands:hover {
+  transform: scale(1.1) translateY(4px);
+  color: var(--color-3) !important;
+}
+
+.navbar-toggler {
+  color: white !important;
+}
+
+/*******Javascript*******/
+
+@media (min-width: 992px) {
+  .header-default {
+    opacity: 1 !important;
+    transition: opacity 0.5s ease !important;
+  }
+  .header-scrolled {
+    opacity: 0.6 !important;
+  }
+}
