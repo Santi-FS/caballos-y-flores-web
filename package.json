@@ -4,9 +4,9 @@
   "description": "Una web minimalista usando el mínimo de dependencias. Mi intención es crear todos los componentes que me sea posible para luego reutilizarlos en otros proyectos y tener un producto estable y eficiente.",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3021",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 3021",
     "lint": "next lint"
   },
   "keywords": [
