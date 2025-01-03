@@ -8,6 +8,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="es">
       <head>
+        <meta name="robots" content="index, follow" />
         <link rel="icon" href="/assets/favicon.png" type="image/png" />
 
         <link rel="stylesheet" href="/assets/css/bootstrapV5.3.css" />
