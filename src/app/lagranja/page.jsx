@@ -1,4 +1,4 @@
-import BackgroundImage from "@/src/components/BackgroundImage";
+import BackgroundImage from "@/src/components/home/BackgroundImageHome";
 
 export default function LaGranja() {
   return (

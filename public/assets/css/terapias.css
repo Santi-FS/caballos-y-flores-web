@@ -1,0 +1,12 @@
+.imageWrapper {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.darkRectangle {
+  background-color: var(--color-verde-oscuro);
+  color: white;
+  padding: 1rem;
+  max-width: 720px;
+  border-radius: 8px;
+}

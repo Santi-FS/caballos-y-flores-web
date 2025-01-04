@@ -1,11 +1,10 @@
-export default function BackgroundImage({ path }) {
+export default function BackgroundImageHome({ path }) {
   return (
     <>
       <div
         className="p-5 bg-image position-relative"
         style={{
           backgroundImage: `url('/assets/img/${path}/hero-image.jpeg')`,
-          height: "400px",
         }}
       >
         <div

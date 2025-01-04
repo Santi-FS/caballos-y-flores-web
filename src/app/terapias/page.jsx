@@ -1,27 +1,14 @@
-import BackgroundImage from "@/src/components/BackgroundImage";
+import BackgroundImageTerapias from "@/src/components/terapias/BackgroundImageTerapias";
 import BannerTerapias from "@/src/components/terapias/BannerTerapias";
+import CardSection1Terapias from "@/src/components/terapias/CardSection1Terapias";
 import MainSectionTerapias from "@/src/components/terapias/MainSectionTerapias";
 
 export default function Terapias() {
   return (
     <>
-      <hr />
-      <hr />
-      <hr />
+      <BackgroundImageTerapias path={"terapias"} />
+      <CardSection1Terapias />
       <MainSectionTerapias />
-      <hr />
-      <BannerTerapias />;
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus
-        atque consectetur sint maiores obcaecati quo, accusamus inventore
-        delectus dolores. Quod commodi mollitia maxime veniam vel doloribus qui
-        quidem aliquam quia.
-      </p>
     </>
   );
 }

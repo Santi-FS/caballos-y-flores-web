@@ -9,8 +9,6 @@ export default function RootLayout({ children }) {
     <html lang="es">
       <head>
         <meta name="robots" content="index, follow" />
-        <link rel="icon" href="/assets/favicon.png" type="image/png" />
-
         <link rel="stylesheet" href="/assets/css/bootstrapV5.3.css" />
         <link
           rel="stylesheet"
@@ -23,7 +21,7 @@ export default function RootLayout({ children }) {
         <link rel="stylesheet" href="/assets/css/color-palette.css" />
         <link rel="stylesheet" href="/assets/css/breackpoints.css" />
         <link rel="stylesheet" href="/assets/css/style.css" />
-        <title>Inicio | Caballos y Flores</title>
+        <link rel="stylesheet" href="/assets/css/terapias.css" />
       </head>
       <body>
         <header>

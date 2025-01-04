@@ -11,15 +11,17 @@ export default function BannerHome() {
             />
           </div>
           <div className="card-body">
-            En{" "}
-            <b>
-              <i>Caballos y Flores</i>
-            </b>{" "}
-            nos embarcamos en un viaje terapéutico único que combina dos
-            disciplinas poderosas: la equinoterapia y la terapia floral de Bach.
-            Este enfoque holístico busca armonizar el bienestar emocional y
-            mental a través de la conexión con caballos y la sabiduría de las
-            flores de Bach.
+            <p>
+              En{" "}
+              <b>
+                <i>Caballos y Flores</i>
+              </b>{" "}
+              nos embarcamos en un viaje terapéutico único que combina dos
+              disciplinas poderosas: la equinoterapia y la terapia floral de
+              Bach. Este enfoque holístico busca armonizar el bienestar
+              emocional y mental a través de la conexión con caballos y la
+              sabiduría de las flores de Bach.
+            </p>
           </div>
         </div>
       </div>

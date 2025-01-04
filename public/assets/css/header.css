@@ -7,6 +7,9 @@ header {
 .bg-image {
   height: 100vh !important;
 }
+.bg-image-80 {
+  height: 80vh !important;
+}
 h1 {
   font-family: Open-Sans-light, "Gill Sans MT", Calibri, "Trebuchet MS",
     sans-serif !important;
