@@ -26,7 +26,7 @@ export default function CardSection2() {
               <h4 className="font-weight-bold">
                 Energetización Emocional y Equilibrio
               </h4>
-              <p className="text-muted">
+              <p className="text-black">
                 Las{" "}
                 <b>
                   <i>Flores de Bach</i>
@@ -38,7 +38,7 @@ export default function CardSection2() {
                 la armonización de las emociones.
               </p>
               <Link
-                className="btn btn-brown btn-md ml-0"
+                className="btn btn-brown btn-md ml-0 section-0"
                 href="/terapias#bannerTerapias"
                 role="button"
               >

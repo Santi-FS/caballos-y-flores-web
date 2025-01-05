@@ -189,7 +189,7 @@ export default function Footer() {
             <div className="col-4">
               <b>Diseño:</b> Sathya Sica
             </div>
-            <a className="col-4 text-white fs-6" href="www.miweb.com.ar">
+            <a className="col-4 text-white fs-6" href="#">
               &copy; 2024 Todos los derechos reservados
             </a>
           </div>

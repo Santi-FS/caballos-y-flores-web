@@ -9,6 +9,21 @@ export default function Terapias() {
       <BackgroundImageTerapias path={"terapias"} />
       <CardSection1Terapias />
       <MainSectionTerapias />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
     </>
   );
 }

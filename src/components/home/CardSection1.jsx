@@ -26,7 +26,7 @@ export default function CardSection1() {
               <h4 className="font-weight-bold">
                 Comunicación No Verbal y Reflexión Emocional
               </h4>
-              <p className="text-muted">
+              <p className="text-black">
                 La{" "}
                 <b>
                   <i>equinoterapia</i>
@@ -39,7 +39,7 @@ export default function CardSection1() {
                 experiencia única de autorreflexión y conciencia emocional.
               </p>
               <Link
-                className="btn btn-brown btn-md ml-0"
+                className="btn btn-brown btn-md ml-0 section-0"
                 href="/terapias"
                 role="button"
               >

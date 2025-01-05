@@ -23,7 +23,7 @@ export default function CardSection3() {
                 <i>Fomento del Crecimiento Personal</i>
               </h2>
               <hr />
-              <p className="text-muted">
+              <p className="text-black">
                 <b>
                   <i>Caballos y Flores</i>
                 </b>{" "}
@@ -35,7 +35,7 @@ export default function CardSection3() {
                 de propósito, autonomía y autenticidad en sus vidas.
               </p>
               <Link
-                className="btn btn-brown btn-md ml-0"
+                className="btn btn-brown btn-md ml-0 section-0"
                 href="novedades"
                 role="button"
               >

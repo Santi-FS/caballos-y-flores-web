@@ -1,8 +1,13 @@
-.color-fondo{
-    background-color: #ddd;
+.color-fondo {
+  background-color: #ddd;
 }
 
-.section-0{
-    background-color: var(--color-verde-oscuro);
-    color: #ddd;
+.section-0 {
+  background-color: var(--color-verde-oscuro);
+  color: #ddd;
+}
+
+.section-verde-claro {
+  background-color: var(--color-verde-claro);
+  color: #000;
 }
