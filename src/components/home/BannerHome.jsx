@@ -2,7 +2,7 @@ export default function BannerHome() {
   return (
     <>
       <div className="card seccion-index-0 my-1 my-sm-3 my-md-5">
-        <div className=" p-md-3 text-center  fs-5 d-flex align-items-center section-0">
+        <div className=" p-md-3 text-center fs-5 d-flex align-items-center section-0">
           <div className="flex-shrink-0">
             <img
               className="img-fluid planta"

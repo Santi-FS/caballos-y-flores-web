@@ -1,9 +1,13 @@
 import Link from "next/link";
 
-export default function CardSection1Terapias() {
+export default function CardSection2Terapias() {
   return (
     <>
-      <div className=" p-3 z-depth-1 card color-fondo section-verde-claro">
+      <br />
+      <div
+        className=" p-3 z-depth-1 card color-fondo section-verde-claro"
+        style={{ backgroundColor: "#fff" }}
+      >
         <section className="container text-center text-lg-left dark-grey-text">
           <div className="row">
             <div className="col-md-5 mb-4 mb-md-0 box-shadow order-md-2 order-1 p-5">
@@ -50,18 +54,7 @@ export default function CardSection1Terapias() {
               </p>
             </div>
           </div>
-          <br />
-          <br />
-          <div
-            className="my-3 fs-5 p-5 section-0 border border-5 border-white rounded-6"
-            style={{
-              position: "absolute",
-              bottom: "-15%",
-              padding: "10px",
-              textAlign: "center",
-              zIndex: "999",
-            }}
-          >
+          <div className="my-3  fs-5 p-5 section-0  border border-5 border-white rounded-6">
             <p>
               Al igual que los caballos, las flores nos acompañan en la
               evolución de nuestros procesos espirituales. Tanto los caballos
